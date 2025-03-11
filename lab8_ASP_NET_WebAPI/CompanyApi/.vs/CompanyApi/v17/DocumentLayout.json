@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|c:\\users\\nowak\\desktop\\studia\\magisterka\\sem1\\enterprise\\lab8_asp_net_webapi\\companyapi\\companyapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|c:\\users\\nowak\\desktop\\studia\\magisterka\\sem1\\enterprise\\lab8_asp_net_webapi\\companyapi\\companyapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|c:\\users\\nowak\\desktop\\studia\\magisterka\\sem1\\enterprise\\lab8_asp_net_webapi\\companyapi\\companyapi\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|c:\\users\\nowak\\desktop\\studia\\magisterka\\sem1\\enterprise\\lab8_asp_net_webapi\\companyapi\\companyapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|c:\\users\\nowak\\desktop\\studia\\magisterka\\sem1\\enterprise\\lab8_asp_net_webapi\\companyapi\\companyapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|c:\\users\\nowak\\desktop\\studia\\magisterka\\sem1\\enterprise\\lab8_asp_net_webapi\\companyapi\\companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|c:\\users\\nowak\\desktop\\studia\\magisterka\\sem1\\enterprise\\lab8_asp_net_webapi\\companyapi\\companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|c:\\users\\nowak\\desktop\\studia\\magisterka\\sem1\\enterprise\\lab8_asp_net_webapi\\companyapi\\companyapi\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AD8438-28FD-43A5-B1E7-3D9C1ABDF84A}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Models\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\DepartmentDTO.cs",
+              "RelativeToolTip": "CompanyApi\\Models\\DepartmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:46:04.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Models\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\EmployeeDTO.cs",
+              "RelativeToolTip": "CompanyApi\\Models\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:17:48.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "CompanyApi\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAUwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:15:51.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CompanyApi\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:15:26.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Program.cs",
+              "ToolTip": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Program.cs",
+              "RelativeToolTip": "CompanyApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:46:29.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\Department.cs",
+              "RelativeToolTip": "CompanyApi\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:43:48.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\Employee.cs",
+              "RelativeToolTip": "CompanyApi\\Models\\Employee.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:42:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Models\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\nowak\\Desktop\\Studia\\magisterka\\sem1\\Enterprise\\lab8_ASP_NET_WebAPI\\CompanyApi\\CompanyApi\\Models\\CompanyDbContext.cs",
+              "RelativeToolTip": "CompanyApi\\Models\\CompanyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:41:42.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
